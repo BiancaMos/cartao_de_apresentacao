@@ -1,0 +1,50 @@
+body {
+  background-color: #446194;
+  font-family: 'Open Sans',sans-serif;
+}
+
+section {
+  -webkit-box-shadow: Spx Spx 50px 8px rgba(0,0,0,0.59);
+  box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top:100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1{
+  font-size: 20px;
+  text-align: left;
+}
+
+header {
+  background-image:url('https://st2.depositphotos.com/11953928/42818/v/1600/depositphotos_428183518-stock-illustration-space-raccoon-astronaut-rocket-planet.jpg');
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px;
+}
+
+div {
+  padding: 15px;
+  border: 1px solid block;
+  /*propriedade visual:valor   */
+  background-color: brown;
+  background-color: #bac3d6;
+  border-radius: 5px;
+}
+
+img {
+  width: 150px;
+  height:150px;
+  border-radius:100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50px);
+  border: 8px solid white;
+}
